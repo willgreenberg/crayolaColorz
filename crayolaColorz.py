@@ -1,6 +1,6 @@
 #
 #   CRAYOLA COLORZ by WILL GREENBERG, 2017
-#       Fuckin' with Crayola standard colors yo
+#       Messin' with Crayola standard colors yo
 #
 #
 import json, sys, pygame, webcolors, time
